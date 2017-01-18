@@ -298,7 +298,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a291" ANNOTATION_REF="a256">
-                <ANNOTATION_VALUE>d'a= d’an klas-pə mana-čā-w</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>ďa= d’an klas-pə mana-čā-w</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -308,7 +308,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a293" ANNOTATION_REF="a258">
-                <ANNOTATION_VALUE>zoow'ətt'ehnikum-mə mana-Ø-m</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>zoow'ətťehnikum-mə mana-Ø-m</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -383,7 +383,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a308" ANNOTATION_REF="a273">
-                <ANNOTATION_VALUE>amin-ŋaha gun’-d’ə-s'ō-n</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>amin-ŋaha gun’-d’ə-śō-n</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -797,10 +797,10 @@
     <LINGUISTIC_TYPE CONSTRAINTS="Time_Subdivision" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="&lt;gl&gt;" TIME_ALIGNABLE="true" />
     <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Subdivision" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="child" TIME_ALIGNABLE="false" />
     <LOCALE COUNTRY_CODE="RU" LANGUAGE_CODE="ru" />
-    <CONSTRAINT DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision" />
+    <CONSTRAINT DESCRIPTION="Time subdivision of parent annotatiońs time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision" />
     <CONSTRAINT DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision" />
     <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association" />
-    <CONSTRAINT DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In" />
+    <CONSTRAINT DESCRIPTION="Time alignable annotations within the parent annotatiońs time interval, gaps are allowed" STEREOTYPE="Included_In" />
 <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Subdivision" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="fonWord" /><LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Subdivision" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="fon_new" /><LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="gl_new" /><TIER DEFAULT_LOCALE="us" LINGUISTIC_TYPE_REF="fonWord" PARENT_REF="ev" TIER_ID="fonWord"><ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a283_fw_0" ANNOTATION_REF="a248">
                 <ANNOTATION_VALUE>bi</ANNOTATION_VALUE>
@@ -953,7 +953,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a291_fw_0" ANNOTATION_REF="a256">
-                <ANNOTATION_VALUE>d'a</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>ďa</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -988,7 +988,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a293_fw_0" ANNOTATION_REF="a258">
-                <ANNOTATION_VALUE>zoow'ətt'ehnikummə</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>zoow'ətťehnikummə</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -1243,7 +1243,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a308_fw_1" ANNOTATION_REF="a273" PREVIOUS_ANNOTATION="a308_fw_0">
-                <ANNOTATION_VALUE>gun’d’əs'ōn</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>gun’d’əśōn</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -1768,7 +1768,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a291_fw_0_f_0" ANNOTATION_REF="a291_fw_0">
-                <ANNOTATION_VALUE>d'a</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>ďa</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -1833,7 +1833,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a293_fw_0_f_0" ANNOTATION_REF="a293_fw_0">
-                <ANNOTATION_VALUE>zoow'ətt'ehnikum</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>zoow'ətťehnikum</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -2528,7 +2528,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a308_fw_1_f_4" ANNOTATION_REF="a308_fw_1" PREVIOUS_ANNOTATION="a308_fw_1_f_2">
-                <ANNOTATION_VALUE>-s'ō</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>-śō</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>

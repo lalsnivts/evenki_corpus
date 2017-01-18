@@ -1169,7 +1169,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1100" ANNOTATION_REF="a970">
-                <ANNOTATION_VALUE>tar bira-wə dak-kanəmi-lə əwgiski bira-wa dak-ča-l=da tar čaŋgada-wa goro-kon-mə nul= nulgi-konəmi-lə aŋ-ča-l ďukt'a-kanə-wər heri-hi-sa-l</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>tar bira-wə dak-kanəmi-lə əwgiski bira-wa dak-ča-l=da tar čaŋgada-wa goro-kon-mə nul= nulgi-konəmi-lə aŋ-ča-l ďukťa-kanə-wər heri-hi-sa-l</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -1204,12 +1204,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1107" ANNOTATION_REF="a977">
-                <ANNOTATION_VALUE>guluwu-r-ba ila-t-t'a amī</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>guluwu-r-ba ila-t-ťa amī</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1108" ANNOTATION_REF="a978">
-                <ANNOTATION_VALUE>tar amaskī-wər amaskī hokto-tkī-ji ila-t-t'a</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>tar amaskī-wər amaskī hokto-tkī-ji ila-t-ťa</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -1224,7 +1224,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1111" ANNOTATION_REF="a981">
-                <ANNOTATION_VALUE>tar ŋinakin-mər alat-t'ə-sə-l</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>tar ŋinakin-mər alat-ťə-sə-l</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -1244,7 +1244,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1115" ANNOTATION_REF="a985">
-                <ANNOTATION_VALUE>pesoki-t ugu-t nōdu-gat-t'a śītā-t ŋinakin-mə ərəgəri-t ərəgəri-t </ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>pesoki-t ugu-t nōdu-gat-ťa śītā-t ŋinakin-mə ərəgəri-t ərəgəri-t </ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -1284,12 +1284,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1123" ANNOTATION_REF="a993">
-                <ANNOTATION_VALUE>luhu hə= amaskī-ji hokto-tkī-ji iśət-t'ə-so</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>luhu hə= amaskī-ji hokto-tkī-ji iśət-ťə-so</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1124" ANNOTATION_REF="a994">
-                <ANNOTATION_VALUE>tar dolbo-nī-wə aran anŋit-t'a-l</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>tar dolbo-nī-wə aran anŋit-ťa-l</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -1324,7 +1324,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1131" ANNOTATION_REF="a1001">
-                <ANNOTATION_VALUE>bəjə-wə əlbat-t'əŋo-l</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>bəjə-wə əlbat-ťəŋo-l</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -1564,7 +1564,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1179" ANNOTATION_REF="a1049">
-                <ANNOTATION_VALUE>luhū d’ōńt'a-ďa-ŋkī-n tar ahī aja-t əksə-ktə-nə-wə-tin nuŋan-ma-n</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>luhū d’ōńťa-ďa-ŋkī-n tar ahī aja-t əksə-ktə-nə-wə-tin nuŋan-ma-n</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -2903,10 +2903,10 @@
     <LINGUISTIC_TYPE CONSTRAINTS="Time_Subdivision" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="&lt;gl&gt;" TIME_ALIGNABLE="true" />
     <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Subdivision" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="child" TIME_ALIGNABLE="false" />
     <LOCALE COUNTRY_CODE="RU" LANGUAGE_CODE="ru" />
-    <CONSTRAINT DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision" />
+    <CONSTRAINT DESCRIPTION="Time subdivision of parent annotatiońs time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision" />
     <CONSTRAINT DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision" />
     <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association" />
-    <CONSTRAINT DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In" />
+    <CONSTRAINT DESCRIPTION="Time alignable annotations within the parent annotatiońs time interval, gaps are allowed" STEREOTYPE="Included_In" />
 <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Subdivision" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="fonWord" /><LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Subdivision" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="fon_new" /><LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="gl_new" /><TIER DEFAULT_LOCALE="us" LINGUISTIC_TYPE_REF="fonWord" PARENT_REF="ev" TIER_ID="fonWord"><ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1051_fw_0" ANNOTATION_REF="a921">
                 <ANNOTATION_VALUE>omŋoso</ANNOTATION_VALUE>
@@ -4114,7 +4114,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1100_fw_12" ANNOTATION_REF="a970" PREVIOUS_ANNOTATION="a1100_fw_11">
-                <ANNOTATION_VALUE>ďukt'akanəwər</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>ďukťakanəwər</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -4259,7 +4259,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1107_fw_1" ANNOTATION_REF="a977" PREVIOUS_ANNOTATION="a1107_fw_0">
-                <ANNOTATION_VALUE>ilatt'a</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>ilatťa</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -4289,7 +4289,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1108_fw_4" ANNOTATION_REF="a978" PREVIOUS_ANNOTATION="a1108_fw_3">
-                <ANNOTATION_VALUE>ilatt'a</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>ilatťa</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -4349,7 +4349,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1111_fw_2" ANNOTATION_REF="a981" PREVIOUS_ANNOTATION="a1111_fw_1">
-                <ANNOTATION_VALUE>alatt'əsəl</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>alatťəsəl</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -4444,7 +4444,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1115_fw_2" ANNOTATION_REF="a985" PREVIOUS_ANNOTATION="a1115_fw_1">
-                <ANNOTATION_VALUE>nōdugatt'a</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>nōdugatťa</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -4704,7 +4704,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1123_fw_4" ANNOTATION_REF="a993" PREVIOUS_ANNOTATION="a1123_fw_3">
-                <ANNOTATION_VALUE>iśətt'əso</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>iśətťəso</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -4724,7 +4724,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1124_fw_3" ANNOTATION_REF="a994" PREVIOUS_ANNOTATION="a1124_fw_2">
-                <ANNOTATION_VALUE>anŋitt'al</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>anŋitťal</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -4834,7 +4834,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1131_fw_1" ANNOTATION_REF="a1001" PREVIOUS_ANNOTATION="a1131_fw_0">
-                <ANNOTATION_VALUE>əlbatt'əŋol</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>əlbatťəŋol</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -6089,7 +6089,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1179_fw_1" ANNOTATION_REF="a1049" PREVIOUS_ANNOTATION="a1179_fw_0">
-                <ANNOTATION_VALUE>d’ōńt'aďaŋkīn</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>d’ōńťaďaŋkīn</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -8724,7 +8724,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1100_fw_12_f_0" ANNOTATION_REF="a1100_fw_12">
-                <ANNOTATION_VALUE>ďukt'a</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>ďukťa</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -9134,7 +9134,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1107_fw_1_f_4" ANNOTATION_REF="a1107_fw_1" PREVIOUS_ANNOTATION="a1107_fw_1_f_2">
-                <ANNOTATION_VALUE>-t'a</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>-ťa</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -9189,7 +9189,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1108_fw_4_f_4" ANNOTATION_REF="a1108_fw_4" PREVIOUS_ANNOTATION="a1108_fw_4_f_2">
-                <ANNOTATION_VALUE>-t'a</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>-ťa</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -9299,7 +9299,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1111_fw_2_f_2" ANNOTATION_REF="a1111_fw_2" PREVIOUS_ANNOTATION="a1111_fw_2_f_0">
-                <ANNOTATION_VALUE>-t'ə</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>-ťə</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -9489,7 +9489,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1115_fw_2_f_4" ANNOTATION_REF="a1115_fw_2" PREVIOUS_ANNOTATION="a1115_fw_2_f_2">
-                <ANNOTATION_VALUE>-t'a</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>-ťa</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -10044,7 +10044,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1123_fw_4_f_2" ANNOTATION_REF="a1123_fw_4" PREVIOUS_ANNOTATION="a1123_fw_4_f_0">
-                <ANNOTATION_VALUE>-t'ə</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>-ťə</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -10084,7 +10084,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1124_fw_3_f_2" ANNOTATION_REF="a1124_fw_3" PREVIOUS_ANNOTATION="a1124_fw_3_f_0">
-                <ANNOTATION_VALUE>-t'a</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>-ťa</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -10324,7 +10324,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1131_fw_1_f_2" ANNOTATION_REF="a1131_fw_1" PREVIOUS_ANNOTATION="a1131_fw_1_f_0">
-                <ANNOTATION_VALUE>-t'əŋo</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>-ťəŋo</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -13104,7 +13104,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1179_fw_1_f_0" ANNOTATION_REF="a1179_fw_1">
-                <ANNOTATION_VALUE>d’ōńt'a</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>d’ōńťa</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>

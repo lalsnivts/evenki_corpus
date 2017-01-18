@@ -557,7 +557,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="ann482" ANNOTATION_REF="ann480_flexid_d7f713dd-e8cf-11d3-9764-00c04f186933">
-                <ANNOTATION_VALUE>-s'ɔ</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>-śɔ</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -1677,7 +1677,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="ann1926" ANNOTATION_REF="ann1924_flexid_d7f713dd-e8cf-11d3-9764-00c04f186933">
-                <ANNOTATION_VALUE>-s'ɔ</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>-śɔ</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -23204,8 +23204,8 @@
     <LOCALE LANGUAGE_CODE="fr"/>
     <LOCALE COUNTRY_CODE="RU" LANGUAGE_CODE="ru"/>
     <LOCALE LANGUAGE_CODE="en"/>
-    <CONSTRAINT DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="Time subdivision of parent annotatiońs time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
     <CONSTRAINT DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
     <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
-    <CONSTRAINT DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+    <CONSTRAINT DESCRIPTION="Time alignable annotations within the parent annotatiońs time interval, gaps are allowed" STEREOTYPE="Included_In"/>
 </ANNOTATION_DOCUMENT>
