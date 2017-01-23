@@ -104,12 +104,12 @@
     <TIER DEFAULT_LOCALE="ru" LINGUISTIC_TYPE_REF="child" PARENT_REF="ev" TIER_ID="fon_old">
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a106" ANNOTATION_REF="a93">
-                <ANNOTATION_VALUE>ńān ďōn-i-m ōkin stadə-dū bi-čō-w</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>ńān d'ōn-i-m ōkin stadə-dū bi-čō-w</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a107" ANNOTATION_REF="a94">
-                <ANNOTATION_VALUE>bi pastuhi-ďə-čā-w</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>bi pastuhi-d'ə-čā-w</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -313,10 +313,10 @@
     <LINGUISTIC_TYPE CONSTRAINTS="Time_Subdivision" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="&lt;gl&gt;" TIME_ALIGNABLE="true" />
     <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Subdivision" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="child" TIME_ALIGNABLE="false" />
     <LOCALE COUNTRY_CODE="RU" LANGUAGE_CODE="ru" />
-    <CONSTRAINT DESCRIPTION="Time subdivision of parent annotatiońs time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision" />
+    <CONSTRAINT DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision" />
     <CONSTRAINT DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision" />
     <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association" />
-    <CONSTRAINT DESCRIPTION="Time alignable annotations within the parent annotatiońs time interval, gaps are allowed" STEREOTYPE="Included_In" />
+    <CONSTRAINT DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In" />
 <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Subdivision" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="fonWord" /><LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Subdivision" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="fon_new" /><LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="gl_new" /><TIER DEFAULT_LOCALE="us" LINGUISTIC_TYPE_REF="fonWord" PARENT_REF="ev" TIER_ID="fonWord"><ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a106_fw_0" ANNOTATION_REF="a93">
                 <ANNOTATION_VALUE>ńān</ANNOTATION_VALUE>
@@ -324,7 +324,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a106_fw_1" ANNOTATION_REF="a93" PREVIOUS_ANNOTATION="a106_fw_0">
-                <ANNOTATION_VALUE>ďōnim</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>d'ōnim</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -349,7 +349,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a107_fw_1" ANNOTATION_REF="a94" PREVIOUS_ANNOTATION="a107_fw_0">
-                <ANNOTATION_VALUE>pastuhiďəčāw</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>pastuhid'əčāw</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -544,7 +544,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a106_fw_1_f_0" ANNOTATION_REF="a106_fw_1">
-                <ANNOTATION_VALUE>ďōn</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>d'ōn</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -599,7 +599,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a107_fw_1_f_2" ANNOTATION_REF="a107_fw_1" PREVIOUS_ANNOTATION="a107_fw_1_f_0">
-                <ANNOTATION_VALUE>-ďə</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>-d'ə</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
